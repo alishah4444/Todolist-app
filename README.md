@@ -1,2 +1,2 @@
 # Todolist-app
-simple typescript todolist
+React typescript todolist
